@@ -1,0 +1,14 @@
+*.xls
+*.doc*
+*.txt
+*.csv
+\#*
+*~
+.settings
+.settings/*
+*.htm*
+*_files
+*_files/*
+*.rtf*
+.#*
+.project
